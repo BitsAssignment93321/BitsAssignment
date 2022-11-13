@@ -1,4 +1,6 @@
 # BitsAssignment
 Assignment Demo
-This branch is for bugfixes,
-on completion this branch will be merged into Main barnch for production deployment
+
+This project is sole purpose for BITS assignemnet
+Branch: main ( used to deploy to in production)
+
